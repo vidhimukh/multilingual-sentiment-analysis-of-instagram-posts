@@ -1,11 +1,11 @@
-Multilingual Sentiment Analysis of Instagram Posts
+**Multilingual Sentiment Analysis of Instagram Posts**
 
-Overview :
+**Overview :**
 
 This project performs sentiment analysis on multilingual Instagram posts using transformer-based language models. The goal is to classify posts into sentiment categories such as positive, negative, or neutral while handling multiple languages.
 
 
-Two powerful multilingual models were used :
+**Two powerful multilingual models were used :**
 
 - mBERT (Multilingual BERT)
 
@@ -13,7 +13,7 @@ Two powerful multilingual models were used :
 
 The performance of both models was evaluated using various classification metrics and visualizations.
 
-Objectives :
+**Objectives :**
 
 - Analyze sentiment in Instagram posts written in multiple languages.
 
@@ -23,7 +23,7 @@ Objectives :
 
 - Visualize results using graphs and confusion matrices.
 
-Technologies Used :
+**Technologies Used :**
 
 - Python
 
@@ -37,7 +37,7 @@ Technologies Used :
 
 - Matplotlib / Seaborn
 
-Models Used :
+**Models Used :**
 - mBERT (Multilingual BERT) :
 
 A multilingual version of BERT trained on Wikipedia data from multiple languages. It enables sentiment analysis across languages without training separate models.
@@ -46,7 +46,7 @@ A multilingual version of BERT trained on Wikipedia data from multiple languages
 
 A transformer model trained on a very large multilingual dataset. It generally performs better on multilingual NLP tasks due to its larger training corpus.
 
-Evaluation Metrics :
+**Evaluation Metrics :**
 
 The models were evaluated using the following metrics:
 
@@ -58,7 +58,7 @@ The models were evaluated using the following metrics:
 
 These metrics help determine the effectiveness of each model in predicting sentiment correctly.
 
-Visualizations :
+**Visualizations :**
 
 The following visualizations were used to analyze the model performance:
 
@@ -66,7 +66,7 @@ The following visualizations were used to analyze the model performance:
 
 - ROC Curve
 
-Project Structure :
+**Project Structure :**
 
 multilingual-sentiment-analysis-of-instagram-posts
 
